@@ -1,4 +1,5 @@
-- 👋 Olá, sejam bem-vindos (as)! Sou Márcio Alves. 
+# **Olá, sejam bem-vindos (as)! Sou Márcio Alves.** 👋
+
 - :trophy: Formação: Economia. 
 - 👀 Tenho interesse em estatística, ciência de dados, econometria, programação em R e Python. 
 - 🌱 Atualmente estou aprofundando meus conhecimentos em ciência de dados e programação em Python
